@@ -4,7 +4,7 @@ Notepad++ 7.2.2 bug-fixes:
 2.  Fix "Replace All" button shortcut accelerator in Replce dialog not working regression.
 3.  Fix unusual plugin update prompt after upgrade to 7.2.1 version.
 
-
+we're crazy!
 Included plugins:
 
 1.  NppExport v0.2.8 (32-bit x86 only)
